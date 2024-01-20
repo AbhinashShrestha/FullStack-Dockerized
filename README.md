@@ -1,5 +1,6 @@
-## How to use
-# Build the images and start the project 
+# How to use
+
+## Build the images and start the project 
 ```
 docker compose up -d
 ```
@@ -8,3 +9,9 @@ docker compose up -d
 ```
 docker compose watch -d
 ```
+
+## To view the frontend 
+
+http://localhost:5173/ 
+
+## To view the backend 
